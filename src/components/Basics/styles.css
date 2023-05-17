@@ -1,0 +1,33 @@
+.menulogo {
+  align-items: center;
+  width: 250px;
+  height: 120px;
+
+}
+
+.card {
+  width: 18rem;
+  height: 28rem;
+}
+
+.cards {
+
+  display: inline-block;
+
+  padding-left: 40px;
+
+}
+
+.card-body {
+  align-items: center;
+}
+
+.card-img-top {
+  width: 18rem;
+  height: 10rem;
+}
+
+.btn-group{
+
+  padding-right:480px;
+}
